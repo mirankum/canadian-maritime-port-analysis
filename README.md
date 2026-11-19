@@ -1,2 +1,4 @@
-# canadian-maritime-port-analysis
-SQL portfolio project analyzing Canadian maritime cargo volumes, port performance, and international trade trends using publicly available government data.
+# Canadian Maritime Port Performance and Trade Resilience Analysis (2013–2025)
+
+Which Canadian ports have experienced the greatest changes in cargo volumes?
+What do these trends suggest about potential risks to Canada's maritime trade network?
