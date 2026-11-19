@@ -8,3 +8,6 @@ from port_cargo
 where year = 2023
 group by Port 
 order by total_cargo Desc
+
+
+-- Vancouver Fraser has the most cargo
